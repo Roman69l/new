@@ -13,7 +13,7 @@ int main() {
         sum += array[i];
     }
     result = sum / SIZE;
-    printf("Среднее арифметическое: %.3f\n", result);
+    printf("%.3f\n", result);
     return 0;
 }
 
