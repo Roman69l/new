@@ -3,6 +3,7 @@
 #define SIZE 10
 
 int main() {
+    //dashdjgashgsadhjsagdshdgsa
     double array[SIZE];
     double sum = 0.0;
     double result;
